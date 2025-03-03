@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elringus.UnityGoogleDrive.Runtime", "Elringus.UnityGoogleDrive.Runtime.csproj", "{FDEAEE20-99D6-90F9-0791-E6077EC0E5CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{32C3BDE6-E125-3128-82C1-25D0441455A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elringus.UnityGoogleDrive.Editor", "Elringus.UnityGoogleDrive.Editor.csproj", "{B56065D3-8A96-3F0B-C06C-DEF19924B28E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDEAEE20-99D6-90F9-0791-E6077EC0E5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEAEE20-99D6-90F9-0791-E6077EC0E5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEAEE20-99D6-90F9-0791-E6077EC0E5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEAEE20-99D6-90F9-0791-E6077EC0E5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32C3BDE6-E125-3128-82C1-25D0441455A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C3BDE6-E125-3128-82C1-25D0441455A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C3BDE6-E125-3128-82C1-25D0441455A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C3BDE6-E125-3128-82C1-25D0441455A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56065D3-8A96-3F0B-C06C-DEF19924B28E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56065D3-8A96-3F0B-C06C-DEF19924B28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56065D3-8A96-3F0B-C06C-DEF19924B28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56065D3-8A96-3F0B-C06C-DEF19924B28E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
